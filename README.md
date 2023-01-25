@@ -15,7 +15,8 @@ Her inne vil du finne noen av mine prosjekter og oppgaver som jeg har jobbet med
 
 :phone: +47 99357846
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erlendrm/)](www.linkedin.com/in/erlendrm/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erlendrm/)](https://www.linkedin.com/in/erlendrm/)
+
 
 
 <!--
