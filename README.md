@@ -1,7 +1,7 @@
 ### Hei og velkommen til min github 👋
 
 ### Om meg:
-Mitt navn er Erlend er 28 år og kommer fra Stavanger. Jeg studere informatikk ved UiO og er ferdig uteksaminert vår 2023.
+Mitt navn er Erlend, jeg er 28 år og kommer fra Stavanger. Jeg studere informatikk ved UiO og er ferdig uteksaminert vår 2023.
 Her inne vil du finne mine prosjekter og oppgaver som jeg har jobbet med over de siste årene
 
 ### Språk:
