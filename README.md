@@ -7,11 +7,11 @@ Her inne vil du finne noen av mine prosjekter og oppgaver som jeg har jobbet med
 
 
 ### Teknologier jeg lærer/bruker:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MatLab](https://img.shields.io/badge/MatLab-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MatLab](https://img.shields.io/badge/MatLab-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) Android Studio
 
 
 ### Kontakt:
-📧ermelleby@gmail.com 
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ermelleby@gmail.com 
 
 :phone: +47 99357846
 
