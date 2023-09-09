@@ -11,7 +11,7 @@ Her inne vil du finne noen av mine prosjekter og oppgaver som jeg har jobbet med
 
 
 ### Kontakt:
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ermelleby@gmail.com 
+📧 ermelleby@gmail.com 
 
 :phone: +47 99357846
 
