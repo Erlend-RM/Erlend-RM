@@ -3,7 +3,7 @@
 
 ### Om meg:
 Mitt navn er Erlend, jeg er 29 år og kommer fra Stavanger. Jeg har studert informatikk ved UiO og ble ferdig uteksaminert vår 2023.
-Her inne vil du finne noen av mine prosjekter og oppgaver som jeg har jobbet med over de siste årene
+Her inne vil du finne noen av mine prosjekter og oppgaver som jeg har jobbet med over de siste årene.
 
 
 ### Teknologier jeg lærer/bruker:
